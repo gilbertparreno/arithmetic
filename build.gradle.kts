@@ -2,7 +2,7 @@ import extensions.implementation
 import org.gradle.api.JavaVersion
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-group = "arithmetic"
+group = "io.github.gilbertparreno"
 version = "1.0"
 
 buildscript {

@@ -1,4 +1,4 @@
-package com.gilbertparreno.arithmetic
+package io.github.gilbertparreno.arithmetic
 
 object Arithmetic {
     fun add(a: Float, b: Float) = a + b
